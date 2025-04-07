@@ -23,3 +23,8 @@ go.work.sum
 
 # env file
 .env
+/build/
+/uszips.csv
+/date.png
+/weather.png
+/time.png

@@ -1,0 +1,12 @@
+github.com/gsexton/devices/v3 v3.6.12-0.20250406043622-e455f8e488dc h1:K2anXkBPtJB63mzdnZui7KxVBoU32+kg9nh2PhI8Df4=
+github.com/gsexton/devices/v3 v3.6.12-0.20250406043622-e455f8e488dc/go.mod h1:fI+9cBhcagNIfMm1/Sv2t9g1R9Tv7Z/SWUlVRW1cLSE=
+github.com/icodealot/noaa v0.0.2 h1:nL21mFSxJUBog7/0/vakIfA109T2A8/JpowzEzL9O+w=
+github.com/icodealot/noaa v0.0.2/go.mod h1:vPMSrP4zBvlbWC34qtUR5w64dCp0xSRjkLy9/Ky81go=
+github.com/jonboulle/clockwork v0.5.0 h1:Hyh9A8u51kptdkR+cqRpT1EebBwTn1oK9YfGYbdFz6I=
+github.com/jonboulle/clockwork v0.5.0/go.mod h1:3mZlmanh0g2NDKO5TWZVJAfofYk64M7XN3SzBPjZF60=
+gopkg.in/gographics/imagick.v2 v2.7.0 h1:Acluvnk5MhtETFX4EVnt9NbjC32ROaaC3bx6nJueHJk=
+gopkg.in/gographics/imagick.v2 v2.7.0/go.mod h1:/QVPLV/iKdNttRKthmDkeeGg+vdHurVEPc8zkU0XgBk=
+periph.io/x/conn/v3 v3.7.2 h1:qt9dE6XGP5ljbFnCKRJ9OOCoiOyBGlw7JZgoi72zZ1s=
+periph.io/x/conn/v3 v3.7.2/go.mod h1:Ao0b4sFRo4QOx6c1tROJU1fLJN1hUIYggjOrkIVnpGg=
+periph.io/x/host/v3 v3.8.4 h1:QNleTythDd0k6Chu0n+ISrJFlf3LFig9oNbtOIkxoCc=
+periph.io/x/host/v3 v3.8.4/go.mod h1:hPq8dISZIc+UNfWoRj+bPH3XEBQqJPdFdx218W92mdc=

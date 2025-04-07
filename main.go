@@ -338,6 +338,8 @@ func drawDisplay(path string) error {
 		Model:       inky.WHAT,
 		ModelColor:  inky.Yellow,
 		BorderColor: inky.Black,
+		Height:      300,
+		Width:       400,
 	})
 	if err != nil {
 		return err

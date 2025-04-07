@@ -11,4 +11,4 @@ require (
 	periph.io/x/host/v3 v3.8.4
 )
 
-require periph.io/x/conn/v3 v3.7.2 // indirect
+require periph.io/x/conn/v3 v3.7.2
